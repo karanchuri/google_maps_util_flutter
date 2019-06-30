@@ -1,8 +1,8 @@
 name: google_maps_util
-description: A new Flutter package.
+description: Helper Class Regarding PolyLine in google_maps_flutter
 version: 0.0.1
 author: Karan Jaywant Churi <kjchuri95@gmail.com>
-homepage:
+homepage: https://github.com/karanchuri/google_maps_util_flutter
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
