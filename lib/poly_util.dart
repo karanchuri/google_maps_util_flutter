@@ -1,5 +1,4 @@
-library google_maps_util;
-import 'package:google_maps_flutter/google_maps_flutter.dart';
+part of google_maps_util;
 
 /// A Helper Class Regarding PolyLine in google_maps_flutter
 class PolyUtil{
