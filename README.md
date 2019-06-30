@@ -20,7 +20,7 @@ To use this package :
 ### How to use
 
 ```dart
-import 'package:google_maps_util/poly_util.dart';
+import 'package:google_maps_util/google_maps_util.dart';
 import 'package:google_maps_flutter/google_maps_flutter.dart';
 
 
